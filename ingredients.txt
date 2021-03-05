@@ -1,6 +1,7 @@
 
 eggs
-milk
+coconut milk
 butter
 flour
+sugar
 
